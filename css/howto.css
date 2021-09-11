@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+h2{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+p{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+ol{
+    padding-left: 17%;
+    padding-right: 15%;
+}
+
+.pd{
+    padding-bottom: 10%;
+}
